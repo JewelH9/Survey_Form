@@ -1,0 +1,25 @@
+.all {
+  text-align: center;
+  background-image: linear-gradient(to right, #00b09b, #96c93d);
+  border-radius: 25px;
+  padding: 20px;
+  height: 100%;
+  width: 97%;
+}
+
+.name {
+  border: green solid;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.add {
+  border: green solid;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: underline;
+}
